@@ -24,3 +24,6 @@ Customer Information: Data on customer demographics and rental behavior.
 Payments: Records of transactions and revenue details.
 
 [View my Tableau visualization]https://public.tableau.com/views/Rockbusterprojectfinalvisualizations/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Disclaimer 
+This project was madde for the purposes of the Career Foundry Datan Analytics immersion course 
